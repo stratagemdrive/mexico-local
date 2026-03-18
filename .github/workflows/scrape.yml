@@ -7,15 +7,18 @@ on:
     - cron: "0 23 * * *"
   workflow_dispatch:  # Allow manual runs
 
+permissions:
+  contents: write
+
 jobs:
   scrape-news:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,22 +26,23 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Create docs folder and suppress Jekyll
         run: |
-          mkdir -p docs
-          touch docs/.nojekyll
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run scraper
         run: python scraper.py
-        env:
-          OUTPUT_FILE: docs/mexico_news.json
+
+      - name: Copy output to docs/ for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp mexico_news.json docs/mexico_news.json
 
       - name: Commit and push updated JSON
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/.nojekyll docs/mexico_news.json
-          git diff --cached --quiet || git commit -m "chore: update docs/mexico_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mexico_news.json docs/mexico_news.json
+          git diff --cached --quiet || git commit -m "chore: update mexico_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git pull --rebase origin main
+          git push origin main
