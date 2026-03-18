@@ -23,7 +23,7 @@ from deep_translator import GoogleTranslator
 # Configuration
 # ---------------------------------------------------------------------------
 
-OUTPUT_FILE = Path("mexico_news.json")
+OUTPUT_FILE = Path(os.environ.get("OUTPUT_FILE", "docs/mexico_news.json"))
 MAX_PER_CATEGORY = 20
 MAX_AGE_DAYS = 7
 CATEGORIES = ["Diplomacy", "Military", "Energy", "Economy", "Local Events"]
