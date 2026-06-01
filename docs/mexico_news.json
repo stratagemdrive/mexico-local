@@ -2,6 +2,125 @@
   "Diplomacy": [
     {
       "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/deportes/a09n2dep?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "South Africa delays trip to Mexico due to visa problems"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/022n1mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Corruption, fines and scandals surround Trump's inner circle"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/022n2mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Protesters and police clash despite curfew in Newark"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/espectaculos/a06n1esp?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "They pay tribute to Luis Gasca and Gabriel Hernández at the Los Ángeles Hall"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/002n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Firm no! from Sheinbaum to US interference; “they come for some, then for others”"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/014a1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Arturo Balderas Rodríguez: Primary elections of the Republican Party"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/027n1mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Invading Cuba would be “a lost war,” say specialists"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/024n2mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Tel Aviv persists with bombings and demolition of homes in Gaza"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/opinion/008o1eco?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Enrique Galván Ochoa: Money"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/026n3mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "EU: decision is only for Colombians"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/015n3pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Tunnel discovered"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/023n1mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "US Central Command carries out “self-defense strikes” against Iran"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/015n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Japanese firm stops union membership in Mexico"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/estados/029n3est?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Sheinbaum report mobilizes hundreds of thousands in the country; Tamaulipas, among the states with the most support"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/opinion/027o1mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "David Brooks: American curiosities"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/deportes/a10n1dep?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "Brazil thrashes Panama 6-2 in a friendly game at the Maracaná stadium"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/003n2pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Diplomacy",
+      "title": "White balance and thousands of attendees at the presidential event reported"
+    },
+    {
+      "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/05/31/politica/007n1pol?partner=rss",
       "published_date": "2026-05-31T09:18:56+00:00",
       "category": "Diplomacy",
@@ -20,128 +139,121 @@
       "published_date": "2026-05-31T09:18:56+00:00",
       "category": "Diplomacy",
       "title": "Bad Bunny is the “imperfect ambassador” of Spanish"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/021n2mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "The Guardian: Trump family seeks to enrich themselves in Bosnia using politics"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/economia/014n1eco?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "The Trump brand increases the tycoon's fortune in 12 countries"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/019n1mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "Ukrainian drone attack causes fires at Russian oil facilities"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/013a2pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "William I. Robinson*: Genocide Council and Washington-Israel axis"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/021n3mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "Judge orders review of agreement that favored the head of the White House in the case of tax leaks"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/017n1mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "The United States insists that it will attack Iran again if there is no agreement"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/espectaculos/a07n1esp?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "Donald Trump: “I will replace ‘third-rate artists’”"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/020n3mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "US energy blockade of Cuba endangers education, says UNESCO"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/022n3mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "US attacks boat in the Pacific; kill three"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/021n1mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "ICE agents are concerned about poor conditions at the immigration center in Manhattan"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/020n2mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "Millions face acute hunger and malnutrition in Ecuador: UN"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/cultura/a03n2cul?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Diplomacy",
-      "title": "Refugees and migrants install the work Weaving networks in Tijuana"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/opinion/002a1edi?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Diplomacy",
-      "title": "Editorial: Israel: systematic sexual violence"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/mundo/022n1mun?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Diplomacy",
-      "title": "Trump remains undecided about possible peace agreement with Iran"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/politica/010n2pol?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Diplomacy",
-      "title": "Chancellor Velasco makes changes in SRE"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/economia/016a1eco?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Diplomacy",
-      "title": "Silvia Ribeiro: States as carbon traffickers"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/mundo/022n2mun?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Diplomacy",
-      "title": "Alarm in the Pacific over China's strengthening is legitimate: US Secretary of War"
     }
   ],
   "Military": [
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/opinion/002a1edi?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Editorial: From cooperation to interference"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/025n1mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Japan rejects China's accusation of remilitarizing its country"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/estados/030n2est?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Peace for Chiapas, cry of bishops of the entity in the Basilica of Guadalupe"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/015n2pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "They denounce Uber's refusal to pay profit sharing"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/estados/030n3est?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Former Catem leader arrested for extortion"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/estados/030n4est?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Purépecha community of Cherán K’eri condemns violence in Ostula"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/024n3mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Fugitive from the ICC on 5th Avenue"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/espectaculos/a08a1esp?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Rafael Aviña: Film noir: a retrospective at the Cineteca"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/opinion/002a2cor?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "The Illustrated Courier"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/estados/030n1est?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Fight in Aguaruto prison; 7 dead and one injured"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/deportes/a11n1dep?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Celebrations for PSG left more than 200 injured in Paris"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/024n1mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Israeli Army takes UNESCO-protected medieval Lebanese castle"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/capital/032n1cap?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "The FGJ will provide ministerial assistance to victims of crime during the World Cup"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/opinion/020o1eco?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Carlos Fernández-Vega: México SA"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/opinion/032o1cap?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Miguel Ángel Velázquez: Lost City"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/espectaculos/a08n1esp?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Military",
+      "title": "Italy bans Kanye West concert; Istanbul received him on Saturday"
+    },
     {
       "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/05/31/mundo/018n2mun?partner=rss",
@@ -169,121 +281,65 @@
       "published_date": "2026-05-31T09:18:56+00:00",
       "category": "Military",
       "title": "Journalists demand justice for crimes against colleagues"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/012a1pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "Antonio Gershenson: Res-Issste and Imss-iste"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/estados/024n1est?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "Blockades and burning of vehicles in Zitácuaro; 5 of the CJNG fall"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/005n3pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "Tomorrow, National Navy Day"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/013a1pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "Jorge Durand: Peru and the anti-vote"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/011n1pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "Michel seeks to recover his son after several disputes"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/008n2pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "The CNTE calls to promote a new model that guarantees decent pensions"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/estados/024n2est?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "Three men and two women are murdered in Salamanca; one more person, kidnapped"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/estados/024n3est?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Military",
-      "title": "Displaced people from Chihuahua, without access to housing, health and education"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/politica/011n5pol?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "The Navy simulates an explosive attack in Veracruz"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/mundo/019n4mun?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "Washington attacks boat in the Pacific; kill three"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/estados/027n1est?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "With blockade and burning of cars they demand justice for triple crime in Aquila"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/politica/011n4pol?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "Judge grants protection against extradition of El Chapo's nephew"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/mundo/023n3mun?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "Stranded in Libya, the Global Sumud land convoy transporting aid to Gaza"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/politica/005n3pol?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "The PAN rises on espot networks that the INE ordered it to lower"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/cultura/a04a1cul?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "Juan Arturo Brennan: Eilish & Cameron"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/politica/011n1pol?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Military",
-      "title": "Former Sinaloa police chief will appear on June 1 in NY"
     }
   ],
   "Energy": [
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/008n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "Magistrate De la Mata is not seeking to be a candidate; “They didn't offer me either”"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/economia/021n1eco?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "Mexicans allocate expenses to experience the World Cup at home"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/deportes/a11n2dep?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "Isaac Paredes adds 500 hits in the Major Leagues"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/capital/031n2cap?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "From January to date, 39,142 water leaks have been reported, one every five and a half minutes"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/025n2mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "At least 45 people died after a building storing explosives for mining exploded in Myanmar"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/capital/031n1cap?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "Despite failures, STC reduced spending on escalator care by 77%"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/economia/018n2eco?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "Pemex imported 25% less fuel; production increased"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/023n2mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Energy",
+      "title": "Oil price rises after new Israeli offensive on Lebanon"
+    },
     {
       "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/05/31/economia/016n1eco?partner=rss",
@@ -367,65 +423,72 @@
       "published_date": "2026-05-29T10:19:07+00:00",
       "category": "Energy",
       "title": "MLB owners propose salary cap"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/28/mundo/018n2mun?partner=rss",
-      "published_date": "2026-05-28T10:20:06+00:00",
-      "category": "Energy",
-      "title": "Crude oil price falls due to rumor of agreement for the Middle East"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/28/opinion/006o1eco?partner=rss",
-      "published_date": "2026-05-28T10:20:06+00:00",
-      "category": "Energy",
-      "title": "Enrique Galván Ochoa: Money"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/28/politica/012a1pol?partner=rss",
-      "published_date": "2026-05-28T10:20:06+00:00",
-      "category": "Energy",
-      "title": "Leonardo Lomelí Vanegas *: Education and development"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/28/espectaculos/a09n1esp?partner=rss",
-      "published_date": "2026-05-28T10:20:06+00:00",
-      "category": "Energy",
-      "title": "Luis Gasca: “I feel like a dinosaur that walks the planet”"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/28/estados/025n3est?partner=rss",
-      "published_date": "2026-05-28T10:20:06+00:00",
-      "category": "Energy",
-      "title": "Governor Durazo opens registration for solar roofs; will save on electricity bills"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/28/deportes/a12n1dep?partner=rss",
-      "published_date": "2026-05-28T10:20:06+00:00",
-      "category": "Energy",
-      "title": "South Africa will face the Tricolor with Lyle Foster as the main star"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/27/index.php?section=cartones&id=2&partner=rss",
-      "published_date": "2026-05-27T11:24:34+00:00",
-      "category": "Energy",
-      "title": "Rocha"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/27/capital/033n1cap?partner=rss",
-      "published_date": "2026-05-27T11:24:33+00:00",
-      "category": "Energy",
-      "title": "Eight companies accelerate remodeling work on Metro line 2"
     }
   ],
   "Economy": [
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/espectaculos/a07n2esp?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "YouTubers overthrow Star Wars at the box office"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/capital/032n2cap?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "The president of Canaco rules out “red lights” in CDMX for the soccer fair"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/003n3pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "More than a billion pesos will go to social programs"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/opinion/021o1eco?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "David Márquez Ayala: Economic report"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/economia/018n1eco?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "Public debt grew more than 1.15 trillion in one year: SHCP"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/011n2pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "They trust the prosecutor about dirty war"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/sociedad/034n1soc?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "UNAM retirement scheme will only benefit 200 teachers this year"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/026n1mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "Colombia: the extreme right surpasses the left in the elections"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/003n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Economy",
+      "title": "Despite the global context, the economy is advancing and the peso is strong"
+    },
     {
       "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/05/31/economia/015n3eco?partner=rss",
@@ -502,72 +565,107 @@
       "published_date": "2026-05-30T08:08:15+00:00",
       "category": "Economy",
       "title": "SHCP: investment will gradually return to a more dynamic trajectory"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/politica/007n4pol?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Economy",
-      "title": "Capital Prosecutor's Office rejects transferring Maru Campos case to the FGR"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/economia/017n3eco?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Economy",
-      "title": "Public sector spending increased 1.4% in the first quarter"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/economia/015n1eco?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Economy",
-      "title": "IP and government renew the anti-inflation package"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/economia/018n2eco?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Economy",
-      "title": "R&I ratifies Mexico's credit rating at BBB+"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/sociedad/031n1soc?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Economy",
-      "title": "Federal Labor Center recovered 113 thousand million pesos for workers in 6 years"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/30/politica/008n2pol?partner=rss",
-      "published_date": "2026-05-30T08:08:15+00:00",
-      "category": "Economy",
-      "title": "Delgado announces actions to “democratize” the Poli"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/29/economia/015n3eco?partner=rss",
-      "published_date": "2026-05-29T10:19:07+00:00",
-      "category": "Economy",
-      "title": "Deterioration in household consumption: BdeM"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/29/economia/015n2eco?partner=rss",
-      "published_date": "2026-05-29T10:19:07+00:00",
-      "category": "Economy",
-      "title": "Tax revenues for the quarter fall for the first time in 5 years"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/29/estados/027n3est?partner=rss",
-      "published_date": "2026-05-29T10:19:07+00:00",
-      "category": "Economy",
-      "title": "Armed attacks in Colima leave eight people dead and three injured"
     }
   ],
   "Local Events": [
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/017a1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Raúl Romero*: Mexico 2026: the protests behind the World Cup"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/capital/033n2cap?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Congress approves new transparency model, but did not include a date to begin operations"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/007n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Dialogue with Sheinbaum or protests during the World Cup, warns the CNTE"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/mundo/027n2mun?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Central Obrera Boliviana rejects dialogue with the government of Rodrigo Paz"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/010n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Conapo: in 2034 there will be more seniors than children in Mexico"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/016a1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Manuel Pérez Rocha L*: European Trojan Horse"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/013n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "AICM strengthens its capacity to meet greater passenger demand: Marina"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/011n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "WHO: 1 in 6 older adults suffers abuse"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/estados/029n1est?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "They will not give in to their demands, say teachers during protest in Oaxaca"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/004n1pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Massive concentrations in 30 entities in support of the President"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/deportes/a12n1dep?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Alegna González, two-time champion in the 10 km walk in Madrid"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/economia/020n2eco?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "High energy prices threaten the credit quality of companies, says Moody's"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/politica/008n2pol?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "World Cup atmosphere at the CDMX airport"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/06/01/estados/028n1est?partner=rss",
+      "published_date": "2026-06-01T08:39:14+00:00",
+      "category": "Local Events",
+      "title": "Transnational corporations exploit springs with the promise of alleviating poverty"
+    },
     {
       "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/05/31/opinion/002a1edi?partner=rss",
@@ -609,104 +707,6 @@
       "published_date": "2026-05-31T09:18:56+00:00",
       "category": "Local Events",
       "title": "Lebanon accuses Israel of wanting to erase the country from history"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/mundo/019n2mun?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Tens of thousands march in support of opposition leader Ozgur Ozel in Türkiye"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/deportes/a11n2dep?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Says goodbye to the crown"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/capital/027n1cap?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "More streets near the Azteca will be censused to receive the QR code"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/010n1pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Government ignores forced disappearance, they accuse"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/006n2pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "The impeachment request was not ratified"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/espectaculos/a31n1esp?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Panteón Rococó reaffirms in concert its indissoluble connection with fans"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/capital/029n1cap?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "San Miguel Teotongo was founded on the slopes of a volcano"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/006n3pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "The PAN mayor of Cuautla falls due to his ties to the Sinaloa cartel"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/capital/028n2cap?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "They arrest 12 minors for reselling tickets for Christian Nodal"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/004n1pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Sheinbaum delivers the first phase of AICM remodeling"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/capital/026n2cap?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Parking lots, obliged to report that they have vehicle insurance"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/cultura/a03n1cul?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Teatro Ciego MX displays a stage experience of broken affections and dreams"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/006n1pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "Calderón and Fox reappear together in an act to support Maru Campos"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/05/31/politica/009n1pol?partner=rss",
-      "published_date": "2026-05-31T09:18:56+00:00",
-      "category": "Local Events",
-      "title": "12 Secretaries of State earn salaries higher than that of the President"
     }
   ]
 }
