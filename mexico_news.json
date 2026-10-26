@@ -2,146 +2,181 @@
   "Diplomacy": [
     {
       "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/002a1edi?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Editorial:     Lula: triunfo reconfortante"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/mundo/025n1mun?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Vuelve Corina Machado a Venezuela, aún está acusada de traición a la patria"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/012o1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Ortiz Tejeda: Nosotros ya no  somos los mismos"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/economia/022n1eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Se disparan 26% los costos para equipos de nueva tecnología"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/deportes/a09n1dep?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Kimi Antonelli arrasa en Austin y  se coloca a las puertas del título"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/014o1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Arturo Balderas Rodríguez: Desde el otro lado"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/capital/031n2cap?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Desfilan 20 mil en procesión de catrinas entre calles abarrotadas por cientos de espectadores"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/mundo/027n1mun?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Le Pen arranca su campaña en Francia; va contra migrantes y la mexicanización"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/008o1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Julio Hernández López: Astillero"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/mundo/026n3mun?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Hoy comienzan precios del petróleo a la baja"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/economia/022n2eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Audi fabricará 200 mil autos en Georgia, anuncia Trump"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/mundo/025n2mun?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Magnate acusado de ecocidio, principal donante de congresista republicana de Miami"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/016n2pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "La lucha sigue"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/019a2pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Carlos Fazio: Vasallaje o exterminio  vs resistencia y dignidad"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/cultura/a04n1cul?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Altar monumental en el Palacio de Iturbide honra al oficio de panadero"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/deportes/a12n1dep?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Pachuca amarga el homenaje del América a Memo Ochoa"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/022o1eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Carlos Fernández-Vega: México SA"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/estados/028n3est?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "México y EU acuerdan plan de remediación laboral en la mina de oro Peñasquito"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/016n1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Diplomacy",
+      "title": "Diabetes causa 75% de amputaciones no traumáticas en el país: especialista"
+    },
+    {
+      "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/10/25/deportes/a11n3dep?partner=rss",
       "published_date": "2026-10-25T08:08:59+00:00",
       "category": "Diplomacy",
       "title": "Antonelli se acerca al título de F1"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/mundo/019n2mun?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Cerimedo se atribuye relevos en embajada de EU en Bolivia"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/estados/020n3est?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Ganaderos duranguenses dejan de percibir 300 mdd por suspensión de exportaciones a EU"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/009n2pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Pese a sequía extrema, México cumple Tratado de Aguas con Estados Unidos"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/mundo/019n1mun?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Exoneran a Milei de estafa por criptomoneda $LIBRA"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/opinion/a05o1cul?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Yuriria Iturriaga: No sólo de pan..."
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/010n1pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Yazmín, presa por acusaciones falsas de su ex esposo"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/opinion/014o1eco?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Luis Ángeles: Paradojas"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/006n3pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "México busca apoyar lucha de la ONU contra tráfico de armas"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/012a2pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Fernando Buen Abad Domínguez*: ONU que no une: semiótica de un “sinsentido”"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/opinion/002a2cor?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "El Correo Ilustrado"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/espectaculos/a07a1esp?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Rafael Aviña: Amantes sanguinarios de Leonard Kastle"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/004n1pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Auditoría al INE ya había detectado un esquema de triangulación de recursos"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/cultura/a02n1cul?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Herscht 07769, del Nobel Krasznahorkai, ya está en español en librerías mexicanas"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/mundo/016n2mun?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Hutíes atacan aeropuertos e infraestructura energética en Arabia Saudita"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/mundo/019n5mun?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Kim Jong-un visita China"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/capital/023n2cap?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
-      "category": "Diplomacy",
-      "title": "Jueces pasan por alto el despojo: presos, sólo 8.5% de responsables"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/24/deportes/a09n2dep?partner=rss",
-      "published_date": "2026-10-24T08:33:30+00:00",
-      "category": "Diplomacy",
-      "title": "F1: Leclerc domina los ensayos en Estados Unidos"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/24/estados/021n2est?partner=rss",
-      "published_date": "2026-10-24T08:33:30+00:00",
-      "category": "Diplomacy",
-      "title": "Mazatecas por la Libertad exigen cancelar órdenes de captura de 10 habitantes de Eloxochitlán"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/24/deportes/a11n3dep?partner=rss",
-      "published_date": "2026-10-24T08:33:30+00:00",
-      "category": "Diplomacy",
-      "title": "Investiga la FMF falta ética de jugadores de Tepatitlán"
     }
   ],
   "Military": [
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/deportes/a09n2dep?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Military",
+      "title": "Los Vikingos, únicos invictos"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/012n1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Military",
+      "title": "Caducas y recolectadas por pepenadores, las medicinas a la venta en los tianguis"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/capital/034n2cap?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Military",
+      "title": "Dos muertos y un herido deja riña en festividad religiosa en Contreras"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/estados/028n2est?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Military",
+      "title": "Ramírez Cuéllar: “la violencia en Juchitán y el arresto de su edil, vergüenza nacional”"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/005n3pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Military",
+      "title": "Busca el guinda que PAN no lo llame narcopartido"
+    },
     {
       "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/10/25/mundo/019n4mun?partner=rss",
@@ -246,44 +281,16 @@
       "published_date": "2026-10-23T07:29:59+00:00",
       "category": "Military",
       "title": "Develan billete de la Lotería Nacional por  los 98 años del AICM"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/mundo/024n2mun?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Military",
-      "title": "Tel Aviv ha matado a 351 menores en Gaza desde inicio de la tregua"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/politica/013n2pol?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Military",
-      "title": "Pobreza, violencia y desigualdad, frenan ingreso de jóvenes al bachillerato: Unesco"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/mundo/023n1mun?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Military",
-      "title": "Detienen a la principal rival política de Daniel Noboa"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/capital/029n3cap?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Military",
-      "title": "Cuentan con presencia policial todas las colonias de la CDMX, asegura el secretario Pablo Vázquez"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/cultura/a04n1cul?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Military",
-      "title": "Antonio Ramos Revillas explora el origen de la violencia entre los jóvenes"
     }
   ],
   "Energy": [
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/estados/030n3est?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Energy",
+      "title": "Se incumple con aumentos  a pensiones, denuncian 200 jubilados de CFE-Veracruz"
+    },
     {
       "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/10/25/capital/025n1cap?partner=rss",
@@ -416,16 +423,44 @@
       "published_date": "2026-10-22T10:12:14+00:00",
       "category": "Energy",
       "title": "Desata caos paro del servicio en la L9 del Metro por incendio"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/22/economia/018n2eco?partner=rss",
-      "published_date": "2026-10-22T10:12:14+00:00",
-      "category": "Energy",
-      "title": "México, lejos de una crisis: Compartamos"
     }
   ],
   "Economy": [
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/006o1eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Economy",
+      "title": "Enrique Galván Ochoa: Dinero"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/023o1eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Economy",
+      "title": "David Márquez Ayala: Reporte económico"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/013n2pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Economy",
+      "title": "De 39.4%, alza salarial en el Seguro Social en una década"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/economia/020n2eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Economy",
+      "title": "BdeM afirma que 12 de cada 100 personas coleccionan efectivo"
+    },
+    {
+      "source": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/006n1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
+      "category": "Economy",
+      "title": "Mañana, largo debate en el Senado del polémico Paquete Económico 2027"
+    },
     {
       "source": "La Jornada",
       "url": "https://www.jornada.com.mx/2026/10/25/capital/023n1cap?partner=rss",
@@ -530,183 +565,148 @@
       "published_date": "2026-10-23T07:29:59+00:00",
       "category": "Economy",
       "title": "Ajustes en la ruta del Tren Interoceánico tomarán años"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/politica/012n1pol?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Economy",
-      "title": "Renunció jueza que ordenó detener a César Jáuregui, afirma su abogado"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/economia/016n1eco?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Economy",
-      "title": "Alzas en energéticos aceleraron  la inflación a 3.62% anual: Inegi"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/politica/015a1pol?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Economy",
-      "title": "Julio A. Berdegué y Marco L. Ramírez: La agricultura mexicana no está colapsada"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/economia/020n1eco?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Economy",
-      "title": "Investigan posibles prácticas monopólicas en vales de despensa y pagos electrónicos"
-    },
-    {
-      "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/23/mundo/021n2mun?partner=rss",
-      "published_date": "2026-10-23T07:29:59+00:00",
-      "category": "Economy",
-      "title": "Presidenta madrileña defiende reunión con Milei y afirma que Argentina “creció más que México”"
     }
   ],
   "Local Events": [
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/005n2pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/capital/033n1cap?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Van 17 días de plantón"
+      "title": "Inaugura Clara Brugada décima Utopía; le otorga ONU-Hábitat Pergamino de Honor"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/estados/021n2est?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/economia/021n1eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Huracán Vance se debilita"
+      "title": "Canacar va a paro nacional hoy; Segob exhorta al diálogo"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/cultura/a12n1vox?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/economia/021a1eco?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Keilma cuestiona  la fortaleza asociada con la imagen de  mujer empoderada"
+      "title": "León Bendesky: Rebeldía en Europa"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/deportes/a11n2dep?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/estados/030n2est?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Ahome, campeón de la MLB Cup"
+      "title": "Feminicidios de una mujer y su nieta en Ostuacán fue “venganza personal”: fiscal"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/011a2pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/capital/032n2cap?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Francisco Bravo*: La antidemocracia charril en la sección IX del SNTE"
+      "title": "Integran padrón de menores que trabajan para darles atención"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/economia/013n2eco?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/009n2pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Insiste Gobernación en diálogo"
+      "title": "Asesinatos en procesos electorales, 2027 ya abrió su cuenta"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/deportes/a10n3dep?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/010n1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Gana Burros Blancos el clásico IPN"
+      "title": "Auge de iglesias afines al sionismo hizo a Chiapas zona Israel friendly"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/mundo/017n1mun?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/006n2pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Cientos de miles salen  a las calles con nuevas protestas en Francia"
+      "title": "Alito opera con Romero Hicks, Ruffo y Fox para “restablecer la democracia”"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/economia/013n3eco?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/015n1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Mexicanas, mayoría que aún no goza de inclusión laboral plena"
+      "title": "Sobrevivir, el mayor reto de las lenguas indígenas en México: Secihti"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/cultura/a05n1cul?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/016a1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "La Sinfónica de Xalapa rendirá homenaje a la CDMX en el Teatro Esperanza Iris"
+      "title": "José Murat / VI y última: IA sin regulación estatal"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/mundo/017n2mun?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/034o1cap?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Marchan al menos 25 mil jubilados en España para exigir pensiones dignas"
+      "title": "Miguel Ángel Velázquez: Ciudad perdida"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/opinion/a07o1esp?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/mundo/026n2mun?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Leonardo Páez: ¿La fiesta en paz?"
+      "title": "Movimiento estudiantil gana comicios a partido gobernante en Serbia"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/estados/022n2est?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/013n1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Linchan a uno de los feminicidas de abuela y su nieta en Chiapas"
+      "title": "Recaban firmas trabajadores del IMSS para echar a su líder sindical"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/estados/021n4est?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/estados/029n1est?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Enrique Vargas, coordinador del PAN por Huixquilucan"
+      "title": "Zapatistas no irán a CDMX a “echar relajo, sino a cuidar a buscadoras”"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/capital/026n2cap?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/capital/031n1cap?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Buscan declarar la flor de cempasúchil patrimonio biocultural de la ciudad"
+      "title": "Aspiran 30 morenistas a coordinar la defensa de la transformación en CDMX"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/cultura/a03n2cul?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/capital/032n3cap?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Cierran los museos de París ante nueva ronda de protestas"
+      "title": "Ley de Rentas propone  el acompañamiento de dependencias en desalojos"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/cultura/a03n1cul?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/estados/029n2est?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Aloja el MNSC primera retrospectiva individual dedicada a Luz Osorio"
+      "title": "Juez ordena nueva consulta sobre desarrollo urbano en comunidad otomí de Edomex"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/estados/021n3est?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/estados/029n3est?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Nezahualcóyotl, con mejor nivel de confianza en la policía local"
+      "title": "Analizará SCJN si ordena crear subsecretaría  de educación para pueblos  en Guerrero"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/politica/009n1pol?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/politica/019a1pol?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Gobierno federal arranca plan de saneamiento del río Sonora"
+      "title": "Chen Daojiang*: China trabaja por un APEC  de mayor bienestar de todos"
     },
     {
       "source": "La Jornada",
-      "url": "https://www.jornada.com.mx/2026/10/25/estados/021n1est?partner=rss",
-      "published_date": "2026-10-25T08:08:59+00:00",
+      "url": "https://www.jornada.com.mx/2026/10/26/opinion/027o1mun?partner=rss",
+      "published_date": "2026-10-26T07:36:25+00:00",
       "category": "Local Events",
-      "title": "Comerciantes de Acapulco, en el abandono 3 años después de Otis"
+      "title": "David Brooks: American curios"
     }
   ]
 }
